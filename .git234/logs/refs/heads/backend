@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 ade6ea8bb692dc92e759afc6572b0c2e51452e80 Zenith Kandel <kandelze123@gmail.com> 1768227175 +0545	branch: Created from HEAD
+ade6ea8bb692dc92e759afc6572b0c2e51452e80 5fb3db60c1c17a0deeda74c8ea8f7e6d7235839b Zenith Kandel <kandelze123@gmail.com> 1768228118 +0545	commit: Refactor HTML structure and improve accessibility; add Store section and enhance navigation
+5fb3db60c1c17a0deeda74c8ea8f7e6d7235839b 26ba2bd428ad3ca42f362844970da80a3e8371ed Zenith Kandel <kandelze123@gmail.com> 1768229107 +0545	commit: Add initial store page layout with navigation, search, and sidebar
+26ba2bd428ad3ca42f362844970da80a3e8371ed 1a507381a96a4c4d2b10eaf721c2501755b4f6c3 Zenith Kandel <kandelze123@gmail.com> 1768229570 +0545	commit: Update Font Awesome links to version 7.1.0 for improved icon support
