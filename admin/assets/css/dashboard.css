@@ -16,7 +16,7 @@
     --white-primary: #FFFFFF;
     --white-muted: #E5E5E5;
     --white-dim: #888888;
-    
+
     --success: #10B981;
     --success-bg: rgba(16, 185, 129, 0.1);
     --warning: #F59E0B;
@@ -38,7 +38,9 @@
 /* ============================================
    RESET & BASE
    ============================================ */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;

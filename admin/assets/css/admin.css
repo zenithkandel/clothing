@@ -18,7 +18,7 @@
     --white-primary: #FFFFFF;
     --white-muted: #E5E5E5;
     --white-dim: #888888;
-    
+
     /* Status Colors */
     --success: #10B981;
     --success-bg: rgba(16, 185, 129, 0.1);
@@ -672,7 +672,9 @@ body {
 }
 
 @keyframes spin {
-    to { transform: rotate(360deg); }
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 .frame-loader span {
@@ -842,6 +844,7 @@ body {
    ACCESSIBILITY
    ============================================ */
 @media (prefers-reduced-motion: reduce) {
+
     *,
     *::before,
     *::after {
@@ -868,6 +871,7 @@ body {
 
 /* High Contrast Mode */
 @media (prefers-contrast: high) {
+
     .admin-header,
     .admin-sidebar,
     .mobile-bottom-nav {

@@ -9,7 +9,9 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Oswald:wght@400;500;600&display=swap"
+        rel="stylesheet">
 
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -183,7 +185,8 @@
                     <div class="product-list">
                         <div class="product-item">
                             <div class="product-image">
-                                <img src="../gallery/530653006_17861701017453250_551743686485492484_n.jpg" alt="Product">
+                                <img src="../gallery/530653006_17861701017453250_551743686485492484_n.jpg"
+                                    alt="Product">
                             </div>
                             <div class="product-info">
                                 <span class="product-name">Oversized Rebellion Tee</span>
@@ -197,7 +200,8 @@
 
                         <div class="product-item">
                             <div class="product-image">
-                                <img src="../gallery/551959800_17866379613453250_7410702544923065991_n.jpg" alt="Product">
+                                <img src="../gallery/551959800_17866379613453250_7410702544923065991_n.jpg"
+                                    alt="Product">
                             </div>
                             <div class="product-info">
                                 <span class="product-name">Void Hoodie — Black</span>
@@ -211,7 +215,8 @@
 
                         <div class="product-item">
                             <div class="product-image">
-                                <img src="../gallery/538285766_17863244811453250_4909074703211498115_n.jpg" alt="Product">
+                                <img src="../gallery/538285766_17863244811453250_4909074703211498115_n.jpg"
+                                    alt="Product">
                             </div>
                             <div class="product-info">
                                 <span class="product-name">Tactical Cargo Pants</span>
@@ -225,7 +230,8 @@
 
                         <div class="product-item">
                             <div class="product-image">
-                                <img src="../gallery/539193489_17863244793453250_5562115636179451347_n.jpg" alt="Product">
+                                <img src="../gallery/539193489_17863244793453250_5562115636179451347_n.jpg"
+                                    alt="Product">
                             </div>
                             <div class="product-info">
                                 <span class="product-name">Eternal Bomber Jacket</span>
